@@ -38,6 +38,8 @@
 ## Contact
 Reach out the creators on,
 - Linkedin:
-    - [Vaidehi Rao](https://www.linkedin.com/in/vaidehi-u-026a09150/)
+    - [Suresh Krishna](https://www.linkedin.com/in/sureshkrishh/)
+    - [Vaidehiu](https://www.linkedin.com/in/vaidehiu/)
 - Github:
-    - [Vaidehi Rao](https://github.com/vaidehiu)  
+    - [Suresh Krishna](https://github.com/Sureshkrishh)
+    - [Vaidehiu](https://github.com/vaidehiu)    
