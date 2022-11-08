@@ -8,6 +8,7 @@
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
+- Data available https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
 - The data set is given to identify 5 gestures 
 - Videos are 30 frames per sec (30fps)
 - The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
