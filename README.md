@@ -1,4 +1,4 @@
-# Gesture Recognition Case study IIITB Assignment ![](https://img.shields.io/badge/Vaidehi-Suresh-brightgreen.svg?colorB=ff0000)
+# Gesture Recognition Case study IIITB Assignment ![](https://img.shields.io/badge/Vaidehi-SureshKrishna-brightgreen.svg?colorB=ff0000)
 >Identify gesture in smart tv can make hassel free operation which increases the value of product .It is also a marketing strategy to stand against competitor.
 >This project is about identifying 5 such common gesture that can be used on videos.
 ## Table of Contents
