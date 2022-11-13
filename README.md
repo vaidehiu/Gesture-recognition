@@ -40,12 +40,13 @@ The process of evaluation: Among the best listed Convlstm2d +timedistributed and
 
 
 ## Technologies Used
-- NumPy - version 1.20.1
-- Pandas - version 1.2.4
-- Matplotlib - version 3.3.4
-- Seaborn - version 0.11.1
-- statsmodels - version 0.12.2
-- scikit-learn - version 0.24.1
+Pillow==9.0.1
+matplotlib==3.5.0
+imageio==2.19.0
+keras==2.7.0
+numpy==1.19.4
+scikit-image==0.19.2
+scipy == 1.4.1
 
 
 
