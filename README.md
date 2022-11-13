@@ -22,7 +22,21 @@
 | Stop | Pause the movie. |
 
 ## Conclusions
-- Conclusion
+![Metrics](https://github.com/vaidehiu/Gesture-recognition/blob/main/BestModel.png)
+<br>
+The best model chosen is Time distributed +GRU+CONV2D
+<br>
+The process of evaluation: Among the best listed Convlstm2d +timedistributed and Time distributed +GRU+CONV2D GRU gives best accuracy with considerable trainable params(ie; not too much )almost at same epoch as well. Infact LSTM model has very less params as less as 13k which makes it very simple model and takes less training time. But yet the best validation score was seen in GRU model.
+**Reason**
+- GRU model has 7 times less params than Conv3d (ie approx 1lakh params)
+- Validation accuracy is maximum for simple model 81%
+- Training accuracy is 85% which is good.
+- Difference between train and validation is 4.4% less than 5% which is tolerable. This confirms there is tolerable overfitting of model or in other words model is not overfitted.
+- Size of model approx – 1mb (1259kb)
+
+**BEST MODEL:**  Time distributed +GRU+CONV2D
+
+
 
 
 ## Technologies Used
